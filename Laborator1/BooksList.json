@@ -1,0 +1,15 @@
+{
+  {
+    "title": "Book1",
+    "year": 2020,
+    "price": 25,
+    "isAvalible": true
+  },
+
+  {
+    "title": "Book2",
+    "year": 2010,
+    "price": 25.4,
+    "isAvalible": false
+  }
+}
